@@ -32,6 +32,7 @@
 -bgs
 -cryptodonate
 -cryptodonatetr
+-dask
 -deprem
 -depremodeme
 -depremvergisi
@@ -57,6 +58,7 @@
 -tr
 -urfa
 -vergi
+-yardimedin
 -yardimmerkezi
 -yrdm
 acil
@@ -101,12 +103,17 @@ bagiss
 bags
 bbagis
 cryptodonatetr
+dask
+daskgeriodeme
+daskodeme
 deprem
 depremvergi
 depremyardim
 depremzede
 destek
+donate
 donateturkey
+donation
 dstek
 dstka
 eth
@@ -114,8 +121,13 @@ gaziantep
 gaziantepyardim
 hataydestek
 hatayyardim
+helpantep
+helphatay
+helpmaras
+helpsanliurfa
 icin
 kizilay
+kizilaybagiss
 kizilaydeprem
 kizilaytr
 kizilayy
@@ -127,6 +139,7 @@ marasdestek
 marasyardim
 osmaniye
 osmaniyeyardım
+sendcrypto
 trafad
 trahbap
 trdonate
