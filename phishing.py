@@ -25,7 +25,12 @@ for s in itertools.permutations(words, 1):
     fp.write(stri+"\n")
     stri = str("https://"+s[0] + ".ru")
     fp.write(stri+"\n")
-
+    stri = str("https://"+s[0] + ".site")
+    fp.write(stri+"\n")
+    stri = str("https://"+s[0] + ".com.tr")
+    fp.write(stri+"\n")
+    stri = str("https://"+s[0] + ".cf")
+    fp.write(stri+"\n")        
 
 
 for p in itertools.permutations(words, 2):
@@ -42,6 +47,12 @@ for p in itertools.permutations(words, 2):
     stri = str("https://"+p[0]+ p[1]+ ".co")
     fp.write(stri+"\n")
     stri = str("https://"+p[0]+ p[1]+ ".ru")
+    fp.write(stri+"\n")
+    stri = str("https://"+p[0]+ p[1]+ ".com.tr")
+    fp.write(stri+"\n")
+    stri = str("https://"+p[0]+ p[1]+ ".cf")
+    fp.write(stri+"\n")
+    stri = str("https://"+p[0]+ p[1]+ ".site")
     fp.write(stri+"\n")
     #stri = str("https://twitter.com/"+p[0]+ p[1]) //validate httpx
     #fp.write(stri+"\n")
