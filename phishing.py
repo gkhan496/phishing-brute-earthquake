@@ -17,7 +17,8 @@ for p in itertools.permutations(words, 2):
     fp.write(stri+"\n")
     stri = str("https://"+p[0]+ p[1]+ ".biz")
     fp.write(stri+"\n")
-
+    #stri = str("https://twitter.com/"+p[0]+ p[1]) //validate httpx
+    #fp.write(stri+"\n")
 
 
     
