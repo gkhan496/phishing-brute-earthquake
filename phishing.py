@@ -10,18 +10,21 @@ fs = open("tekil.txt", "a")
 
 stri = ""
 
+subdomains = ["", "crypto.", "bagis.", "yardim."]
 tlds_csv = "top-level-domain-names.csv"
 tlds = list(map(lambda x: x.replace("\n", ""), open(tlds_csv).readlines()))[1:]
 
 for s in itertools.permutations(words, 1):
-    for tld in tlds:
-        stri = str("https://"+s[0] + tld)
-        fp.write(stri+"\n")
+    for subdomain in subdomains:
+        for tld in tlds:
+            stri = str("https://"+subdomain+s[0] + tld)
+            fp.write(stri+"\n")
 
 for p in itertools.permutations(words, 2):
-    for tld in tlds:
-        stri = str("https://"+p[0] + p[1] + tld)
-        fp.write(stri+"\n")
+    for subdomain in subdomains:
+        for tld in tlds:
+            stri = str("https://"+subdomain+p[0] + p[1] + tld)
+            fp.write(stri+"\n")
     # stri = str("https://twitter.com/"+p[0]+ p[1]) //validate httpx
     # fp.write(stri+"\n")
 
