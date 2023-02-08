@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\tools\webscreenshot>C:\Users\User\Desktop\tools\webscreenshot\webscreenshot.py -i updomains.txt --renderer-binary C:\Users\User\Desktop\tools\webscreenshot\phantomjs -o Screenshots
