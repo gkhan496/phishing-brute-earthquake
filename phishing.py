@@ -24,6 +24,17 @@ for p in itertools.permutations(words, 2):
     #stri = str("https://twitter.com/"+p[0]+ p[1]) //validate httpx
     #fp.write(stri+"\n")
 
-
     
+#delete startswith - 
+
+file1 = open('domains.txt', 'r')
+file2 = open('domainsupdated.txt','w')
+ 
+for line in file1.readlines():
+
+    if not (line.startswith('https://-')):
+        file2.write(line)
+ 
+file2.close()
+file1.close()
 

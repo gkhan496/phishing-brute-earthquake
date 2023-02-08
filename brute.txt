@@ -1,4 +1,5 @@
 -aahbap
+-acil
 -adana
 -adiyaman
 -adiyamandestek
@@ -38,6 +39,7 @@
 -donate
 -dstk 
 -earthquake
+-gaziantep
 -geriodeme
 -hatay
 -help 
@@ -50,12 +52,16 @@
 -kriptobagis 
 -mersin
 -odeme
+-osmaniye
 -sanliurfa
 -tr
 -urfa
 -vergi
 -yardimmerkezi
 -yrdm
+acil
+adana
+adanayardim
 adiyamandestek
 adiyamanyardim
 afaad
@@ -84,6 +90,7 @@ ahbpp
 ahhbap
 ahhbappp
 antepdestek
+antepyardim
 avax
 baggis
 bagiiis
@@ -103,6 +110,8 @@ donateturkey
 dstek
 dstka
 eth
+gaziantep
+gaziantepyardim
 hataydestek
 hatayyardim
 icin
@@ -116,6 +125,8 @@ kizziliay
 kriptobagis
 marasdestek
 marasyardim
+osmaniye
+osmaniyeyardım
 trafad
 trahbap
 trdonate
