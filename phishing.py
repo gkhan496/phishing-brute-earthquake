@@ -10,8 +10,9 @@ fs = open("tekil.txt", "a")
 
 stri = ""
 
-tlds = [".com", ".net", ".org", ".xyz", ".biz", ".co", ".ru", ".site",
-        ".com.tr", ".cf", ".ga", ".gq", ".fun", ".one", ".online"]
+tlds_csv = "top-level-domain-names.csv"
+tlds = list(map(lambda x: x.replace("\n", ""), open(tlds_csv).readlines()))[1:]
+
 for s in itertools.permutations(words, 1):
     for tld in tlds:
         stri = str("https://"+s[0] + tld)
