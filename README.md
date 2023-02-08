@@ -9,4 +9,3 @@
 
 https://github.com/maaaaz/webscreenshot
 https://github.com/projectdiscovery/httpx
-https://github.com/datasets/top-level-domain-names
