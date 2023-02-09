@@ -10,10 +10,6 @@ fs = open("tekil.txt", "a")
 
 stri = ""
 
-subdomains = ["", "crypto.", "bagis.", "yardim."]
-tlds_csv = "top-level-domain-names.csv"
-tlds = list(map(lambda x: x.replace("\n", ""), open(tlds_csv).readlines()))[1:]
-
 for s in itertools.permutations(words, 1):
     stri = str("https://"+s[0] + ".com")
     fp.write(stri+"\n")
@@ -55,15 +51,6 @@ for s in itertools.permutations(words, 1):
     stri = str("https://"+s[0] + ".es")
     fp.write(stri+"\n")
     stri = str("https://"+s[0] + ".store")
-    fp.write(stri+"\n")
-
-    stri = str("https://crypto."+s[0] + ".com")
-    fp.write(stri+"\n")
-    stri = str("https://bagis."+s[0] + ".com")
-    fp.write(stri+"\n")
-    stri = str("https://yardim."+s[0] + ".com")
-    fp.write(stri+"\n")
-    stri = str("https://crypto."+s[0] + ".net")
     fp.write(stri+"\n")
 
 for p in itertools.permutations(words, 2):
@@ -117,12 +104,13 @@ for p in itertools.permutations(words, 2):
 #delete startswith - 
 
 file1 = open('domains.txt', 'r')
-file2 = open('domainsupdated.txt', 'w')
-
+file2 = open('domainsupdated.txt','w')
+ 
 for line in file1.readlines():
 
     if not (line.startswith('https://-')):
         file2.write(line)
-
+ 
 file2.close()
 file1.close()
+
