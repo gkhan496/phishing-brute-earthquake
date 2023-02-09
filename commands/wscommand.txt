@@ -1,0 +1,2 @@
+webscreenshot.py -i updomains.txt --renderer-binary phantomjs -o Screenshots
+type domainsupdated.txt | httpx -threads 150 > updomains.txt
