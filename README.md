@@ -1,11 +1,16 @@
 # phishing-brute-earthquake
 
-![update4](https://user-images.githubusercontent.com/28159253/217545385-0b357ab9-e0d7-489a-b2e3-9d54858aaf56.png)
-![update5](https://user-images.githubusercontent.com/28159253/217545389-b90612ca-56b0-442c-9d1c-1c7578ee5d54.png)
-![update6](https://user-images.githubusercontent.com/28159253/217545392-94de22b6-e4a4-4907-8a29-71b22e65667e.png)
-![update7](https://user-images.githubusercontent.com/28159253/217545394-c9e70734-0525-431e-b79e-018bf03fe0a4.png)
+
+![update11](https://user-images.githubusercontent.com/28159253/217775148-04224408-050d-4192-9f7c-1b8e418a933e.png)
+![update12](https://user-images.githubusercontent.com/28159253/217775152-227aa771-59c7-4b17-93c4-aa0c6a5c9b51.png)
+![update13](https://user-images.githubusercontent.com/28159253/217775156-ed2d4906-4619-4f03-8130-4184d292d60a.png)
+![update14](https://user-images.githubusercontent.com/28159253/217775160-80bb91cd-84f8-432c-8584-f3c548b5a53f.png)
+
+
+
 
 # Resources 
 
 https://github.com/maaaaz/webscreenshot
 https://github.com/projectdiscovery/httpx
+https://whoisds.com/newly-registered-domains
