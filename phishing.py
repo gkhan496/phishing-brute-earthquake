@@ -11,7 +11,7 @@ stri = ""
 
 tlds = [".com", ".net", ".org", ".xyz", ".biz", ".co", ".ru", ".site",
         ".com.tr", ".cf", ".ga", ".gq", ".fun", ".one", ".online",
-        ".xn--p1ai", ".de", ".fr", ".es", ".store"]
+        ".xn--p1ai", ".de", ".fr", ".es", ".store", ".ml", ".tk", ".org.tr"]
 
 for s in itertools.permutations(words, 1):
     for tld in tlds:
