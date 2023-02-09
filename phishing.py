@@ -5,8 +5,6 @@ fp = open("domains.txt", "a")
 with open("brute.txt") as f:
     words = [word.strip() for word in f]
 
-fs = open("tekil.txt", "a")
-
 
 stri = ""
 

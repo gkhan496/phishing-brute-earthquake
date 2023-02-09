@@ -1,5 +1,7 @@
 -aahbap
 -acil
+-acilbagis
+-acilyardim
 -adana
 -adanadeprem
 -adanadepremi
@@ -16,6 +18,7 @@
 -afaddeprem
 -afaddestek
 -afadestek
+-afadhemen
 -afadyardım
 -afd
 -afet
@@ -33,6 +36,7 @@
 -ahbap
 -ahbapbagis
 -ahbapdeprem
+-ahbaphemen
 -ahbapp
 -ahbappp
 -ahbp
@@ -61,25 +65,13 @@
 -depremvergisi
 -depremyardimhatay
 -depremyardimkahramanmaras
+-depremzedeyardimi
+-depremzedeyardimlari
 -destek
 -donate
 -dstk 
 -earthquake
 -enkaz
-afadhemen
-ahbaphemen
-hemen
-acilyardim
-acilbagis
-hemenafad
-hemenahbap
--afadhemen
--ahbaphemen
--hemen
--acilyardim
--acilbagis
--hemenafad
--hemenahbap
 -enkaz-yardim
 -enkazbagis
 -enkazyardim
@@ -94,6 +86,9 @@ hemenahbap
 -help
 -help 
 -helpturkey
+-hemen
+-hemenafad
+-hemenahbap
 -iadevergi
 -kahramanmaras
 -kahramanmarasbagis
@@ -133,6 +128,8 @@ hemenahbap
 -yardimyap
 -yrdm
 acil
+acilbagis
+acilyardim
 adana
 adanadeprem
 adanadepremi
@@ -151,6 +148,7 @@ afaddeprem
 afaddeprembagis
 afaddestek
 afadestek
+afadhemen
 afadtr
 afadyardım
 afd
@@ -169,6 +167,7 @@ ahbaap
 ahbap
 ahbapbagis
 ahbapdeprem
+ahbaphemen
 ahbapp
 ahbappp
 ahbaptr
@@ -218,6 +217,8 @@ depremyardimformu
 depremyardimhatay
 depremyardimkahramanmaras
 depremzede
+depremzedeyardimi
+depremzedeyardimlari
 destek
 destekol
 donate
@@ -251,6 +252,9 @@ helpkahramanmaras
 helpmaras
 helpsanliurfa
 helpus
+hemen
+hemenafad
+hemenahbap
 htydstk
 htyrdm
 htyyrdm
