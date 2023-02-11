@@ -5,8 +5,8 @@ import glob
 
 output = open("output.txt","a")
 
-words = ["donate"]
-
+words = ["afad","ahbap","akutba","kizilay","kizil","yardim","bagis","cryptobagis","cryptodestek","hatay","osmaniye","kahramanmaras",
+        "kilis","antakya","samandag","elbistan","malatya","sanliurfa","diyarbakir","adiyaman","adana","deprem","afet"]
 
 
 
