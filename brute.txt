@@ -319,6 +319,8 @@ turkey-help
 turkeybagis
 turkiyebagis
 turkiyedestek
+for
+to
 turkiyecryptobagis
 turkiyekriptosetek
 kripto
