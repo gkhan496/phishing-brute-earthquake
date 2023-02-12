@@ -5,10 +5,11 @@ import glob
 
 output = open("output.txt","a")
 
-words = ["afad","ahbap","akutba","kizilay","kizil","yardim","bagis","cryptobagis","cryptodestek","hatay","osmaniye","kahramanmaras",
+wordsx = ["afad","ahbap","akutba","kizilay","kizil","yardim","bagis","cryptobagis","cryptodestek","hatay","osmaniye","kahramanmaras",
         "kilis","antakya","samandag","elbistan","malatya","sanliurfa","diyarbakir","adiyaman","adana","deprem","afet"]
 
 
+words = ["turkiye","syria","suriye","turkey","donate"]
 
 read_files = glob.glob("resources/*.txt")
 with open("allregistereddomains.txt", "wb") as outfile:
