@@ -1,0 +1,1 @@
+http.favicon.hash:<hash> (Shodan)

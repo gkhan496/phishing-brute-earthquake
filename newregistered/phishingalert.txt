@@ -1,4 +1,5 @@
 http[:]//adanadepremi.com
+http[:]//afet.link
 http[:]//antepdepremi.com
 http[:]//donationtoturkey.com/
 http[:]//hataydepremi.com
@@ -6,6 +7,7 @@ http[:]//marasdepremi.com
 http[:]//turkeyearthquakefund.org/
 https[:]//afad-online-odeme-bagis.net
 https[:]//afad.online
+https[:]//afadbagisimm.net
 https[:]//afaddeprembagis.net
 https[:]//afaddestek.net
 https[:]//afadestek.net
@@ -18,6 +20,7 @@ https[:]//bagislar.xyz
 https[:]//bagisyap.cf
 https[:]//bagisyap.com.tr
 https[:]//deprem-yardimlari.info
+https[:]//deprem-yaylakonak.ch
 https[:]//deprem.help
 https[:]//deprem.link
 https[:]//depremacilyardim.online
@@ -32,17 +35,21 @@ https[:]//depremzedem.online
 https[:]//depremzedeyardimlarixdxme5.com
 https[:]//dogalafetdestek.com
 https[:]//donateturkey.world
+https[:]//donationsyria.com
 https[:]//earthquaketurkey.world
 https[:]//earthquaketurkey.world/
 https[:]//enferdeprem.xyz/
 https[:]//enkazyardim.com.tr
 https[:]//help-turkey.org
 https[:]//helphatay.com
+https[:]//helpturkeysyria.org
 https[:]//helpturkiye.ch
 https[:]//jewsforturkey.com
 https[:]//jewsforturkiye.com
 https[:]//kizllay.com
+https[:]//marasturkiye.pw
 https[:]//mintforturkey.com
+https[:]//pay.helpturkey.us
 https[:]//redcrossturkey.com
 https[:]//savesyriaquick.com
 https[:]//spreaddonate.com
@@ -59,11 +66,9 @@ https[:]//turkeyhelp.world
 https[:]//turkeyrelieftoken.help
 https[:]//www.bizbizeyeterizturkiyem.org
 https[:]//www.prayforturkey.net
+https[:]//www.spendenturkeibagisturkiye.]com
 https[:]//www.turkeystrong.org
 https[:]//yardim-yap.net
 https[:]//yardimbasvuru.net
 https[:]//zedeyardim.online
-https[:]//pay.helpturkey.us
-https[:]//helpturkeysyria.org
 https[:]//ziraatbankanturkey.com
-https[:]//deprem-yaylakonak.ch
