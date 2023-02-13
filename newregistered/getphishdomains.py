@@ -6,7 +6,7 @@ import glob
 output = open("output.txt","a")
 
 words = ["afad","ahbap","akutba","kizilay","kizil","yardim","bagis","cryptobagis","cryptodestek","hatay","osmaniye","kahramanmaras",
-        "kilis","crypto","donation","elbistan","malatya","sanliurfa","diyarbakir","adiyaman","adana","deprem","afet","turkiye","syria","suriye","turkey","donate"]
+        "kilis","crypto","donation","sanliurfa","diyarbakir","adiyaman","adana","deprem","afet","turkiye","syria","suriye","turkey","donate","yardim","zelzele","acil"]
 
 
 
